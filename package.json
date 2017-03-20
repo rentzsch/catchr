@@ -1,0 +1,15 @@
+{
+  "name": "catchr",
+  "version": "0.1.0",
+  "description": "const assignment even with exceptional code",
+  "main": "catchr.js",
+  "repository": "https://github.com/rentzsch/catchr.git",
+  "author": "Jonathan 'Wolf' Rentzsch",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
